@@ -1,4 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I'm Obedson Ostrich
+
+## Computer Wizard | AI & Cybersecurity Developer
+
+I'm a Ugandan student passionate about building AI, cybersecurity, and software solutions.
+
+### 🚀 Skills
+- Python Programming
+- Artificial Intelligence
+- Cybersecurity
+- Web Development
+
+### 🌍 Current Project
+**Pearl AI** — Building an intelligent AI assistant.
+
+### 📫 Contact
+- Email: obedsonostrich30@gmail.com
+- Location: Buliisa, Uganda
+
+> "Creating technology that inspires Africa."
 
 <!--
 **obedsonostrich30-dev/obedsonostrich30-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
